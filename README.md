@@ -9,13 +9,14 @@ Social Proof is a lightweight WHMCS addon that displays real-time purchase notif
 ### 🔔 Live Popup Notification
 ![Live Popup Notification](socialproof3.PNG)
 
-socialproof4.PNG
+![Live Popup Notification](socialproof4.PNG)
 
 ### ⚙️ Admin Configuration Panel
-![Admin Settings](screenshots/socialproof1.PNG)
+![Admin Settings](socialproof1.PNG)
 
-socialproof2.PNG
+![Admin Settings](socialproof2.PNG)
 
+---
 ## 🚀 Features
 
 - 🔔 Real-time sales notifications
