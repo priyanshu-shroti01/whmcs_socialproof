@@ -6,6 +6,15 @@ Social Proof is a lightweight WHMCS addon that displays real-time purchase notif
 > “Someone from India just purchased WP Hosting”
 
 ---
+### 🔔 Live Popup Notification
+![Live Popup Notification](socialproof3.PNG)
+
+socialproof4.PNG
+
+### ⚙️ Admin Configuration Panel
+![Admin Settings](screenshots/socialproof1.PNG)
+
+socialproof2.PNG
 
 ## 🚀 Features
 
